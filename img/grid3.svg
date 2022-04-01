@@ -1,0 +1,57 @@
+<svg width="1280" height="746" viewBox="0 0 1280 746" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="746" fill="white"/>
+<line x1="44.4697" y1="718.205" x2="44.4697" y2="27.798" stroke="#EB9B4E"/>
+<line x1="55.7734" y1="718.205" x2="55.7734" y2="27.798" stroke="#EB9B4E"/>
+<line x1="1250.5" y1="719.001" x2="1250.5" y2="27.7976" stroke="#EB9B4E"/>
+<line x1="1239.2" y1="719.001" x2="1239.2" y2="27.7976" stroke="#EB9B4E"/>
+<line x1="447.935" y1="706.946" x2="447.935" y2="27" stroke="#EB9B4E"/>
+<line x1="458.368" y1="706.946" x2="458.368" y2="27" stroke="#EB9B4E"/>
+<line x1="437.5" y1="706.946" x2="437.5" y2="27" stroke="#EB9B4E"/>
+<line x1="549.804" y1="717.363" x2="549.804" y2="26.9561" stroke="#EB9B4E"/>
+<line x1="561.978" y1="717.363" x2="561.978" y2="26.9561" stroke="#EB9B4E"/>
+<line x1="538.5" y1="717.363" x2="538.5" y2="26.9561" stroke="#EB9B4E"/>
+<rect x="550" y="718.37" width="690.407" height="11.3038" transform="rotate(-90 550 718.37)" fill="url(#paint0_linear_118_651)"/>
+<line x1="136" y1="185.408" x2="286.452" y2="185.408" stroke="#EB9B4E"/>
+<line x1="136" y1="205.316" x2="286.686" y2="205.316" stroke="#EB9B4E"/>
+<line x1="136" y1="165.5" x2="286.452" y2="165.5" stroke="#EB9B4E"/>
+<line x1="286.222" y1="185.408" x2="457.699" y2="185.408" stroke="#EB9B4E"/>
+<line x1="286.523" y1="205.316" x2="458" y2="205.316" stroke="#EB9B4E"/>
+<line x1="286.222" y1="165.5" x2="457.699" y2="165.5" stroke="#EB9B4E"/>
+<line x1="45" y1="441.409" x2="602.821" y2="441.409" stroke="#EB9B4E"/>
+<path d="M45 461.418H602.821" stroke="#EB9B4E"/>
+<line x1="45" y1="421.5" x2="602.821" y2="421.5" stroke="#EB9B4E"/>
+<line x1="602.365" y1="441.409" x2="1238.86" y2="441.409" stroke="#EB9B4E"/>
+<line x1="603.083" y1="461.316" x2="1238.86" y2="461.316" stroke="#EB9B4E"/>
+<line x1="602.365" y1="421.5" x2="1238.86" y2="421.5" stroke="#EB9B4E"/>
+<rect x="155.935" y="441.909" width="302.481" height="19.1116" fill="url(#paint1_linear_118_651)"/>
+<rect x="882.918" y="89.0005" width="366.939" height="19.9079" fill="url(#paint2_linear_118_651)"/>
+<line x1="56" y1="108.552" x2="1250.73" y2="108.552" stroke="#EB9B4E"/>
+<line x1="56" y1="128.976" x2="1250.73" y2="128.976" stroke="#EB9B4E"/>
+<line x1="56" y1="88.543" x2="1249.86" y2="88.543" stroke="#EB9B4E"/>
+<line x1="113.675" y1="542.217" x2="113.675" y2="27" stroke="#EB9B4E"/>
+<line x1="135.846" y1="542.217" x2="135.846" y2="27" stroke="#EB9B4E"/>
+<line x1="91.5" y1="542.217" x2="91.5" y2="27" stroke="#EB9B4E"/>
+<line x1="887.675" y1="551.775" x2="887.675" y2="129" stroke="#EB9B4E"/>
+<line x1="909.846" y1="551.775" x2="909.846" y2="129" stroke="#EB9B4E"/>
+<line x1="865.5" y1="551.775" x2="865.5" y2="129" stroke="#EB9B4E"/>
+<line y1="-0.5" x2="567.86" y2="-0.5" transform="matrix(1 2.89523e-06 -0.000161428 -1 44 717.951)" stroke="#EB9B4E"/>
+<line y1="-0.5" x2="638.2" y2="-0.5" transform="matrix(1 2.98398e-06 -0.000138794 -1 611.83 717.944)" stroke="#EB9B4E"/>
+<line y1="-0.5" x2="568.317" y2="-0.5" transform="matrix(1 0 -0.00210049 -0.999998 44 27.084)" stroke="#EB9B4E"/>
+<line y1="-0.5" x2="638.714" y2="-0.5" transform="matrix(1 0 -0.00186699 -0.999998 612.286 27.3936)" stroke="#EB9B4E"/>
+<line x1="1238.68" y1="718" x2="1238.68" y2="109" stroke="#EB9B4E"/>
+<line x1="1216.5" y1="718" x2="1216.5" y2="109" stroke="#EB9B4E"/>
+<defs>
+<linearGradient id="paint0_linear_118_651" x1="656.383" y1="729.108" x2="1172.98" y2="737.446" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EB9B4E"/>
+<stop offset="1" stop-color="#0D8FDF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_118_651" x1="202.543" y1="460.065" x2="428.929" y2="461.012" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EB9B4E"/>
+<stop offset="1" stop-color="#0D8FDF"/>
+</linearGradient>
+<linearGradient id="paint2_linear_118_651" x1="939.459" y1="107.913" x2="1214.08" y2="109.251" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EB9B4E"/>
+<stop offset="1" stop-color="#0D8FDF"/>
+</linearGradient>
+</defs>
+</svg>
